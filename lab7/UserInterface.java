@@ -1,6 +1,5 @@
 /*
  *@Author: Oliver Mo
- *Studen id: 500844905
  *
  */
 package coe318.lab7;
